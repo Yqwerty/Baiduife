@@ -1,0 +1,142 @@
+div.picbox {
+    margin: 10px 50px;
+    width: 300px;
+    border: #CCCCCC 0.5px solid;
+    font-size: 16px;
+    font-family: "Microsoft Yahei";
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.lastpage {
+    margin: 10px auto;
+    padding: 0px;
+    width: 100%;
+}
+
+#yysubmit {
+    width: 100%;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    height: 40px;
+    font-size: 20px;
+    /* font-weight: bold; */
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.added {
+    color: #B5B9B7;
+    font-size: 14px;
+    margin-top: -5px;
+}
+
+.labelform {
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+.lastpage textarea {
+    width: 50%;
+    height: 50px;
+}
+
+ #lasth3 {
+    color: black;
+}
+
+.context {
+        text-indent: 2em;
+}
+
+.picbox img {
+    width: 280px;
+    padding: 5px;
+}
+#tableyy {
+    border: solid #CCCCCC;
+    border-width: 1px 0px 0px 1px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#tableyy th {
+    border: solid #CCCCCC;
+    border-width: 0px 1px 1px 0px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#tableyy td {
+    border: solid #CCCCCC;
+    border-width: 0px 1px 1px 0px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+#total {
+    background-color: #CCCCCC;
+    color: black;
+    font-weight: bold;
+}
+
+h3 {
+    color: grey;
+}
+
+h5 {
+    color: grey;
+}
+
+#pages {
+    margin: 15px 12px 15px 12px;
+    background: white;
+    border: 2px outset #DEDEDE;
+    padding: 2rem;
+}
+
+body {
+    background-color: #DEDEDE;
+    display: block;
+    margin: 0;
+}
+
+a:visited {
+    color: #4C53F0;
+}
+
+#headofpage nav {
+    background: #333333;
+    width: 100%;
+    padding: 0;
+}
+
+#picone {
+    height: 55;
+    width: 150;
+}
+
+li :link {
+    text-decoration: none;
+}
+
+li :visited {
+    color: white;
+}
+
+#lione {
+    float: right;
+    padding: 0;
+}
+
+#lione li {
+    font-size: x-small;
+    display: inline;
+}
